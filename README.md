@@ -1,7 +1,7 @@
 
 
 <div>
-  <a href="https://github.com/andersonDias89" target="_blank"></img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/wandersondefariasprogramador" target="_blank"></img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 
@@ -56,13 +56,13 @@ Em breve estarei atualizando...
 
 <h2> 
 
-<a href="https://www.linkedin.com/in/anderson-dias-bb7b3122b/">Meu Linkedin</a>
+<a href="https://www.linkedin.com/in/wanderson-farias-ba9a90215//">Meu Linkedin</a>
 
 </h2>
 
 <h2> 
 
-<a href="https://github.com/andersonDias89">Meu GitHub</a>
+<a href="https://github.com/wandersondefariasprogramador">Meu GitHub</a>
 
 </h2>
 
